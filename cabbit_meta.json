@@ -1,0 +1,14 @@
+{
+  "name": "CABBIT",
+  "symbol": "CABBIT",
+  "description": "CABBIT. No roadmap. No team. Just the rabbit. 🐰",
+  "image": "https://raw.githubusercontent.com/vex1privmain/cabbit-meta/main/cabbit.png",
+  "extensions": {
+    "coingecko": {
+      "contract": null
+    },
+    "twitter": "",
+    "telegram": "",
+    "website": ""
+  }
+}
